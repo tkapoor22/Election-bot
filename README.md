@@ -4,7 +4,7 @@
 My bot is supporting the Democratic candidate, Joe Biden
 
 ## Favorite Thread
-![Favorite comment thread](flight2.png)
+![Favorite comment thread](comment_thread.png)
 [Here's a link to the my favorite comment thread webpage](https://github.com/mikeizbicki/cmc-csci040/tree/2020fall/hw_02)
 I liked this thread because 
 
