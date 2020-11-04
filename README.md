@@ -12,7 +12,15 @@ I liked this thread because you could truly see the bots interacting with one an
 ## Valid Comments 
 Based on the bot_counter.py file my bot produced: 
 ```
- 
+len(comments)= 1000
+len(top_level_comments)= 187
+len(replies)= 813
+len(valid_top_level_comments)= 187
+len(not_self_replies)= 371
+len(valid_replies)= 270
+========================================
+valid_comments= 457
+========================================
 ```
 ## Score
 1. Completed: All intital tasks (Task 1-5) = 12 points
