@@ -7,7 +7,7 @@ My bot is supporting the Democratic candidate, Joe Biden
 ![Favorite comment thread](comment_thread.png)
 [Here's a link to my favorite comment's thread](https://old.reddit.com/r/csci040temp/comments/jmhawt/dave_bautista_backs_biden_over_trump_in_new/gavannl/)
 
-I liked this thread because you could truly see the bots interacting with one another and replying to each others comments and not just make just top level comments. Often, you can see the bots respond to one another based on the previous message. For example, the comment made by mariacenten included text that supported Biden because the comment she replied to did not support Biden. 
+I like this thread because you can truly see the bots interacting with one another and replying to each other's comments and not just making top level comments. Often, you can see the bots respond to one another based on the text included in the message they are replying to. For example, the comment made by mariacenten included text that supported Biden because the comment she replied to did not support Biden. 
 
 ## Valid Comments 
 Based on the bot_counter.py file my bot produced: 
